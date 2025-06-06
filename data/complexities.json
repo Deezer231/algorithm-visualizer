@@ -1,0 +1,31 @@
+{
+    "bubble": {
+      "time": "O(n²)",
+      "space": "O(1)"
+    },
+    "selection": {
+      "time": "O(n²)",
+      "space": "O(1)"
+    },
+    "merge": {
+      "time": "O(n log n)",
+      "space": "O(n)"
+    },
+    "quick": {
+      "time": "O(n log n)",
+      "space": "O(log n)"
+    },
+    "bfs": {
+      "time": "O(V + E)",
+      "space": "O(V)"
+    },
+    "dfs": {
+      "time": "O(V + E)",
+      "space": "O(V)"
+    },
+    "dijkstra": {
+      "time": "O((V + E) log V)",
+      "space": "O(V)"
+    }
+  }
+  
